@@ -1,0 +1,1 @@
+document.write(escape('Geeks for Geeks'));//Geeks
